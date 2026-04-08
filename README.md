@@ -1,19 +1,21 @@
-#  Salut, moi c'est Vinolia
+# Salut, moi c'est Vinolia
 
- Étudiante en Bachelor 1 Informatique  
- Développement web : HTML,CSS,JavaScript et php  
+🎓 Étudiant en Bachelor 1 Informatique  
+💻 Développement web : HTML,CSS,JavaScript et php  
 
-##  Objectif
+## 🚀 Objectif
 Devenir développeur web et réaliser des projets personnels et professionnels.
 
-##  Ce que j'apprends
-- HTML / CSS  
+## 📚 Compétences et ce que j'apprends
+- HTML / CSS
 - JavaScript
-- php 
+- php
 - Git & GitHub
 
-##  Mes projets
-*(Bientôt disponibles…)*
+## 📂 Projets
+- Site portfolio (HTML/CSS)
+- Formulaire web interactif
+- Mini-jeu JavaScript
 
-##  Me contacter
-- Email :vinoliaouedraogo@yahoo.com
+## Me contacter
+- Email : vinoliaouedraogo@yahoo.com

@@ -1,6 +1,6 @@
 # Salut, moi c'est Vinolia
 
-🎓 Étudiant en Bachelor 1 Informatique  
+🎓 Étudiante en Bachelor 1 Informatique  
 💻 Développement web : HTML,CSS,JavaScript et php  
 
 ## 🚀 Objectif

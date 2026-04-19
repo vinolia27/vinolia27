@@ -4,7 +4,7 @@
 💻 Développement web : HTML,CSS,JavaScript et php  
 
 ## 🚀 Objectif
-Devenir développeur web et réaliser des projets personnels et professionnels.
+Devenir développeuse web et réaliser des projets personnels et professionnels.
 
 ## 📚 Compétences et ce que j'apprends
 - HTML / CSS
